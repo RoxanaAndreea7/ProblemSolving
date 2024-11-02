@@ -5,3 +5,4 @@ for count in range(no_of_steps, 0 , -1):
     print(f"{count} steps remaining")
 
 print ("Target achieved!")
+print("Done!")
